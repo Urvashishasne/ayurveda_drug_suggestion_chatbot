@@ -1,0 +1,49 @@
+body{
+    background-image: url("https://www.nutrilyf.com/wp-content/uploads/2016/11/image-of-ayurveda.jpeg");
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.cover{
+    width: 600px;
+    height: 400px;
+    background: url("img/download\ \(1\).jpeg");
+    margin-top: 70px;
+    display: flex;
+}
+
+.box{
+    width: 300px;
+    height: 300px;
+    color: #fff;
+}
+
+.box1{
+    width: 300px;
+    height: 300px;
+    color: #fff;
+    
+}
+a {
+    text-decoration: none;
+    color:#fff;
+}
+a:hover {
+    color: aqua;
+}
+img {
+    width: 200px;
+    height: 200px;
+    padding: 25px 50px;
+    border-radius: 50%;
+}
+.login {
+     padding: 25px 80px;
+     text-align: center;
+}
+button{
+    background-image: url("https://th.bing.com/th?id=OIP.xCvGaX_HDOIVyGtBmUg44QHaFj&w=288&h=216&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2");
+    border-radius: 15%;
+    height:fit-content;
+}
